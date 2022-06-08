@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 <h2>Saiba mais:</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-emmanuel-1a7ab143/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fonseca-1a7ab143/)
