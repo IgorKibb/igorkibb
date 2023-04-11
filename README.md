@@ -1,4 +1,4 @@
-### Olá, eu Igor Fonseca👋
+### Olá, eu sou Igor Fonseca👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorkibb&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorkibb&layout=compact&theme=merko)](https://github.com/igorkibb/github-readme-stats)
